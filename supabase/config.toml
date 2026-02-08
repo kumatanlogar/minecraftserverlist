@@ -1,0 +1,4 @@
+project_id = ""
+
+[functions.check-server-status]
+verify_jwt = false
