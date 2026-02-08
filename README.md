@@ -78,7 +78,7 @@ Feel free to open issues or pull requests.
 Have questions, ideas, or want to show what you’ve built with McVault?
 
 👉 **Join the community Discord:**  
-`<your-discord-invite-link-here>`
+`soon`
 
 ## ⭐ Support the Project
 If you like McVault:
